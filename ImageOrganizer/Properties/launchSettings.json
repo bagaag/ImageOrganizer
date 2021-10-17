@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageOrganizer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\takeout-20211012T190236Z\\Takeout\\Google Photos\" > out.txt "
+    }
+  }
+}
